@@ -169,8 +169,8 @@ Discarded input sections
                 0x00000000       0x20 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdlib/stdlib.c.o
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdlib/stdlib.c.o
- .debug_line    0x00000000      0x186 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdlib/stdlib.c.o
- .debug_str     0x00000000      0x1b5 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdlib/stdlib.c.o
+ .debug_line    0x00000000      0x17d CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdlib/stdlib.c.o
+ .debug_str     0x00000000      0x1af CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdlib/stdlib.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdlib/stdlib.c.o
  .debug_frame   0x00000000       0x28 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdlib/stdlib.c.o
  .ARM.attributes
@@ -339,8 +339,8 @@ Discarded input sections
                 0x00000000       0x60 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/sem.c.o
  .debug_rnglists
                 0x00000000      0x14b CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/sem.c.o
- .debug_line    0x00000000      0xf01 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/sem.c.o
- .debug_str     0x00000000      0x50d CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/sem.c.o
+ .debug_line    0x00000000      0xee6 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/sem.c.o
+ .debug_str     0x00000000      0x507 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/sem.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/sem.c.o
  .debug_frame   0x00000000      0x100 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/sem.c.o
  .ARM.attributes
@@ -432,8 +432,8 @@ Discarded input sections
                 0x00000000       0x38 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_time/timeout_helper.c.o
  .debug_rnglists
                 0x00000000       0x58 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_time/timeout_helper.c.o
- .debug_line    0x00000000      0x51e CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_time/timeout_helper.c.o
- .debug_str     0x00000000      0x3e9 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_time/timeout_helper.c.o
+ .debug_line    0x00000000      0x50c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_time/timeout_helper.c.o
+ .debug_str     0x00000000      0x3e3 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_time/timeout_helper.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_time/timeout_helper.c.o
  .debug_frame   0x00000000       0x70 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_time/timeout_helper.c.o
  .ARM.attributes
@@ -534,8 +534,8 @@ Discarded input sections
                 0x00000000       0x70 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/datetime.c.o
  .debug_rnglists
                 0x00000000       0x64 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/datetime.c.o
- .debug_line    0x00000000      0x550 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/datetime.c.o
- .debug_str     0x00000000      0x396 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/datetime.c.o
+ .debug_line    0x00000000      0x547 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/datetime.c.o
+ .debug_str     0x00000000      0x390 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/datetime.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/datetime.c.o
  .debug_frame   0x00000000      0x124 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/datetime.c.o
  .ARM.attributes
@@ -576,8 +576,8 @@ Discarded input sections
                 0x00000000       0x70 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/pheap.c.o
  .debug_rnglists
                 0x00000000      0x480 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/pheap.c.o
- .debug_line    0x00000000     0x13d2 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/pheap.c.o
- .debug_str     0x00000000      0x3df CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/pheap.c.o
+ .debug_line    0x00000000     0x13c9 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/pheap.c.o
+ .debug_str     0x00000000      0x3d9 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/pheap.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/pheap.c.o
  .debug_frame   0x00000000      0x184 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/pheap.c.o
  .ARM.attributes
@@ -609,8 +609,8 @@ Discarded input sections
                 0x00000000       0x58 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/queue.c.o
  .debug_rnglists
                 0x00000000      0x10f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/queue.c.o
- .debug_line    0x00000000      0xfbd CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/queue.c.o
- .debug_str     0x00000000      0x47f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/queue.c.o
+ .debug_line    0x00000000      0xfa5 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/queue.c.o
+ .debug_str     0x00000000      0x479 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/queue.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/queue.c.o
  .debug_frame   0x00000000       0xf0 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_util/queue.c.o
  .ARM.attributes
@@ -685,8 +685,8 @@ Discarded input sections
                 0x00000000       0x30 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_vreg/vreg.c.o
  .debug_rnglists
                 0x00000000       0x3a CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_vreg/vreg.c.o
- .debug_line    0x00000000      0x369 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_vreg/vreg.c.o
- .debug_str     0x00000000      0x362 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_vreg/vreg.c.o
+ .debug_line    0x00000000      0x35a CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_vreg/vreg.c.o
+ .debug_str     0x00000000      0x35c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_vreg/vreg.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_vreg/vreg.c.o
  .debug_frame   0x00000000       0x40 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_vreg/vreg.c.o
  .ARM.attributes
@@ -729,8 +729,8 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x26 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bootrom/bootrom_lock.c.o
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bootrom/bootrom_lock.c.o
- .debug_line    0x00000000       0x85 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bootrom/bootrom_lock.c.o
- .debug_str     0x00000000      0x193 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bootrom/bootrom_lock.c.o
+ .debug_line    0x00000000       0x82 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bootrom/bootrom_lock.c.o
+ .debug_str     0x00000000      0x18d CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bootrom/bootrom_lock.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bootrom/bootrom_lock.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bootrom/bootrom_lock.c.o
@@ -741,8 +741,8 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x26 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_boot_lock/boot_lock.c.o
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_boot_lock/boot_lock.c.o
- .debug_line    0x00000000       0x88 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_boot_lock/boot_lock.c.o
- .debug_str     0x00000000      0x196 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_boot_lock/boot_lock.c.o
+ .debug_line    0x00000000       0x85 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_boot_lock/boot_lock.c.o
+ .debug_str     0x00000000      0x190 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_boot_lock/boot_lock.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_boot_lock/boot_lock.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_boot_lock/boot_lock.c.o
@@ -775,8 +775,8 @@ Discarded input sections
                 0x00000000       0x50 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_flash/flash.c.o
  .debug_rnglists
                 0x00000000       0x4f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_flash/flash.c.o
- .debug_line    0x00000000      0x4d9 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_flash/flash.c.o
- .debug_str     0x00000000      0x6ef CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_flash/flash.c.o
+ .debug_line    0x00000000      0x4c7 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_flash/flash.c.o
+ .debug_str     0x00000000      0x6e9 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_flash/flash.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_flash/flash.c.o
  .debug_frame   0x00000000       0xa0 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_flash/flash.c.o
  .ARM.attributes
@@ -803,12 +803,12 @@ Discarded input sections
                 0x00000000       0x14 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_divider/divider.S.o
  .debug_line    0x00000000       0xa6 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_divider/divider.S.o
  .debug_line_str
-                0x00000000       0x8b CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_divider/divider.S.o
+                0x00000000       0x85 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_divider/divider.S.o
  .debug_info    0x00000000       0x23 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_divider/divider.S.o
  .debug_abbrev  0x00000000       0x12 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_divider/divider.S.o
  .debug_aranges
                 0x00000000       0x40 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_divider/divider.S.o
- .debug_str     0x00000000       0x97 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_divider/divider.S.o
+ .debug_str     0x00000000       0x91 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_divider/divider.S.o
  .debug_rnglists
                 0x00000000       0x2b CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_divider/divider.S.o
  .ARM.attributes
@@ -837,8 +837,8 @@ Discarded input sections
                 0x00000000       0x20 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
- .debug_line    0x00000000      0x349 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
- .debug_str     0x00000000      0x25c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
+ .debug_line    0x00000000      0x33a CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
+ .debug_str     0x00000000      0x256 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .debug_frame   0x00000000       0x20 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.o
  .ARM.attributes
@@ -1027,8 +1027,8 @@ Discarded input sections
                 0x00000000      0x128 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_math.c.o
  .debug_rnglists
                 0x00000000      0x5be CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_math.c.o
- .debug_line    0x00000000     0x2cf9 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_math.c.o
- .debug_str     0x00000000      0x518 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_math.c.o
+ .debug_line    0x00000000     0x2cf3 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_math.c.o
+ .debug_str     0x00000000      0x512 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_math.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_math.c.o
  .debug_frame   0x00000000      0x444 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_math.c.o
  .ARM.attributes
@@ -1195,8 +1195,8 @@ Discarded input sections
                 0x00000000      0x120 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_math.c.o
  .debug_rnglists
                 0x00000000      0x3ff CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_math.c.o
- .debug_line    0x00000000     0x2564 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_math.c.o
- .debug_str     0x00000000      0x52b CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_math.c.o
+ .debug_line    0x00000000     0x255e CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_math.c.o
+ .debug_str     0x00000000      0x525 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_math.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_math.c.o
  .debug_frame   0x00000000      0x388 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_math.c.o
  .ARM.attributes
@@ -1227,8 +1227,8 @@ Discarded input sections
                 0x00000000       0x38 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_malloc/malloc.c.o
  .debug_rnglists
                 0x00000000       0x49 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_malloc/malloc.c.o
- .debug_line    0x00000000      0x2c1 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_malloc/malloc.c.o
- .debug_str     0x00000000      0x235 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_malloc/malloc.c.o
+ .debug_line    0x00000000      0x2b8 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_malloc/malloc.c.o
+ .debug_str     0x00000000      0x22f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_malloc/malloc.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_malloc/malloc.c.o
  .debug_frame   0x00000000       0x74 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_malloc/malloc.c.o
  .ARM.attributes
@@ -1332,8 +1332,8 @@ Discarded input sections
                 0x00000000      0x168 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_atomic/atomic.c.o
  .debug_rnglists
                 0x00000000      0x439 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_atomic/atomic.c.o
- .debug_line    0x00000000     0x2ddb CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_atomic/atomic.c.o
- .debug_str     0x00000000      0x6f3 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_atomic/atomic.c.o
+ .debug_line    0x00000000     0x2dc9 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_atomic/atomic.c.o
+ .debug_str     0x00000000      0x6ed CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_atomic/atomic.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_atomic/atomic.c.o
  .debug_frame   0x00000000      0x3dc CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_atomic/atomic.c.o
  .ARM.attributes
@@ -1355,8 +1355,8 @@ Discarded input sections
                 0x00000000       0x48 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .debug_rnglists
                 0x00000000       0x31 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_cxx_options/new_delete.cpp.o
- .debug_line    0x00000000      0x1fc CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_cxx_options/new_delete.cpp.o
- .debug_str     0x00000000      0x37a CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_cxx_options/new_delete.cpp.o
+ .debug_line    0x00000000      0x1f9 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_cxx_options/new_delete.cpp.o
+ .debug_str     0x00000000      0x374 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .debug_frame   0x00000000       0xa0 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_cxx_options/new_delete.cpp.o
  .ARM.attributes
@@ -1534,8 +1534,8 @@ Discarded input sections
                 0x00000000       0x28 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_xip_cache/xip_cache.c.o
  .debug_rnglists
                 0x00000000       0x19 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_xip_cache/xip_cache.c.o
- .debug_line    0x00000000      0x3ab CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_xip_cache/xip_cache.c.o
- .debug_str     0x00000000      0x2a2 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_xip_cache/xip_cache.c.o
+ .debug_line    0x00000000      0x39c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_xip_cache/xip_cache.c.o
+ .debug_str     0x00000000      0x29c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_xip_cache/xip_cache.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_xip_cache/xip_cache.c.o
  .debug_frame   0x00000000       0x30 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_xip_cache/xip_cache.c.o
  .ARM.attributes
@@ -1633,8 +1633,8 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x26 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/audio/audio_device.c.o
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/audio/audio_device.c.o
- .debug_line    0x00000000       0x85 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/audio/audio_device.c.o
- .debug_str     0x00000000      0x193 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/audio/audio_device.c.o
+ .debug_line    0x00000000       0x82 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/audio/audio_device.c.o
+ .debug_str     0x00000000      0x18d CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/audio/audio_device.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/audio/audio_device.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/audio/audio_device.c.o
@@ -1664,8 +1664,8 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x26 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_device.c.o
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_device.c.o
- .debug_line    0x00000000       0x81 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_device.c.o
- .debug_str     0x00000000      0x18f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_device.c.o
+ .debug_line    0x00000000       0x7e CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_device.c.o
+ .debug_str     0x00000000      0x189 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_device.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_device.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_device.c.o
@@ -1676,8 +1676,8 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x26 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_rt_device.c.o
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_rt_device.c.o
- .debug_line    0x00000000       0x84 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_rt_device.c.o
- .debug_str     0x00000000      0x192 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_rt_device.c.o
+ .debug_line    0x00000000       0x81 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_rt_device.c.o
+ .debug_str     0x00000000      0x18c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_rt_device.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_rt_device.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/dfu/dfu_rt_device.c.o
@@ -1688,8 +1688,8 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x26 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/hid/hid_device.c.o
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/hid/hid_device.c.o
- .debug_line    0x00000000       0x81 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/hid/hid_device.c.o
- .debug_str     0x00000000      0x18f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/hid/hid_device.c.o
+ .debug_line    0x00000000       0x7e CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/hid/hid_device.c.o
+ .debug_str     0x00000000      0x189 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/hid/hid_device.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/hid/hid_device.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/hid/hid_device.c.o
@@ -1700,8 +1700,8 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x26 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/midi/midi_device.c.o
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/midi/midi_device.c.o
- .debug_line    0x00000000       0x83 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/midi/midi_device.c.o
- .debug_str     0x00000000      0x191 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/midi/midi_device.c.o
+ .debug_line    0x00000000       0x80 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/midi/midi_device.c.o
+ .debug_str     0x00000000      0x18b CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/midi/midi_device.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/midi/midi_device.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/midi/midi_device.c.o
@@ -1712,8 +1712,8 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x26 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/msc/msc_device.c.o
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/msc/msc_device.c.o
- .debug_line    0x00000000       0x81 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/msc/msc_device.c.o
- .debug_str     0x00000000      0x18f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/msc/msc_device.c.o
+ .debug_line    0x00000000       0x7e CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/msc/msc_device.c.o
+ .debug_str     0x00000000      0x189 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/msc/msc_device.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/msc/msc_device.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/msc/msc_device.c.o
@@ -1724,8 +1724,8 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x26 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ecm_rndis_device.c.o
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ecm_rndis_device.c.o
- .debug_line    0x00000000       0x87 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ecm_rndis_device.c.o
- .debug_str     0x00000000      0x195 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ecm_rndis_device.c.o
+ .debug_line    0x00000000       0x84 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ecm_rndis_device.c.o
+ .debug_str     0x00000000      0x18f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ecm_rndis_device.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ecm_rndis_device.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ecm_rndis_device.c.o
@@ -1736,8 +1736,8 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x26 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ncm_device.c.o
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ncm_device.c.o
- .debug_line    0x00000000       0x81 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ncm_device.c.o
- .debug_str     0x00000000      0x18f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ncm_device.c.o
+ .debug_line    0x00000000       0x7e CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ncm_device.c.o
+ .debug_str     0x00000000      0x189 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ncm_device.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ncm_device.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/net/ncm_device.c.o
@@ -1748,8 +1748,8 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x26 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.o
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.o
- .debug_line    0x00000000       0x87 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.o
- .debug_str     0x00000000      0x195 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.o
+ .debug_line    0x00000000       0x84 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.o
+ .debug_str     0x00000000      0x18f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.o
@@ -1779,8 +1779,8 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x26 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/video/video_device.c.o
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/video/video_device.c.o
- .debug_line    0x00000000       0x85 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/video/video_device.c.o
- .debug_str     0x00000000      0x193 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/video/video_device.c.o
+ .debug_line    0x00000000       0x82 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/video/video_device.c.o
+ .debug_str     0x00000000      0x18d CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/video/video_device.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/video/video_device.c.o
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/video/video_device.c.o
@@ -1839,8 +1839,8 @@ Discarded input sections
                 0x00000000       0x20 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.o
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.o
- .debug_line    0x00000000      0x169 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.o
- .debug_str     0x00000000      0x1e6 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.o
+ .debug_line    0x00000000      0x163 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.o
+ .debug_str     0x00000000      0x1e0 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.o
  .comment       0x00000000       0x1f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.o
  .debug_frame   0x00000000       0x20 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.o
  .ARM.attributes
@@ -4977,126 +4977,126 @@ LOAD linker stubs
  .debug_rnglists
                 0x000048a5       0x40 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-__call_atexit.o)
 
-.debug_line     0x00000000    0x260eb
- .debug_line    0x00000000      0x481 CMakeFiles/PicoLED.dir/src/main.c.o
- .debug_line    0x00000481     0x1d0c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_gpio/gpio.c.o
- .debug_line    0x0000218d      0x26e CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2040/pico_platform/platform.c.o
- .debug_line    0x000023fb      0x257 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_platform_panic/panic.c.o
- .debug_line    0x00002652      0x95c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/hardware_claim/claim.c.o
- .debug_line    0x00002fae      0x512 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_sync/sync.c.o
- .debug_line    0x000034c0      0x3dd CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
- .debug_line    0x0000389d     0x180b CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_irq/irq.c.o
- .debug_line    0x000050a8      0x308 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/lock_core.c.o
- .debug_line    0x000053b0     0x1bdb CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/mutex.c.o
- .debug_line    0x00006f8b      0x453 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/critical_section.c.o
- .debug_line    0x000073de     0x3620 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_time/time.c.o
- .debug_line    0x0000a9fe     0x1dc3 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_timer/timer.c.o
- .debug_line    0x0000c7c1     0x103f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_uart/uart.c.o
- .debug_line    0x0000d800     0x21a2 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_clocks/clocks.c.o
- .debug_line    0x0000f9a2      0x551 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_pll/pll.c.o
- .debug_line    0x0000fef3      0x7ee CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_watchdog/watchdog.c.o
- .debug_line    0x000106e1      0x367 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_ticks/ticks.c.o
- .debug_line    0x00010a48      0x43e CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bootrom/bootrom.c.o
- .debug_line    0x00010e86      0x370 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_xosc/xosc.c.o
- .debug_line    0x000111f6      0x325 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime/runtime.c.o
- .debug_line    0x0001151b      0x593 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init.c.o
- .debug_line    0x00011aae      0x5ff CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
- .debug_line    0x000120ad      0x107 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
- .debug_line    0x000121b4      0x2a9 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_divider/divider_hardware.S.o
- .debug_line    0x0001245d      0x44d CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
- .debug_line    0x000128aa      0x505 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
- .debug_line    0x00012daf       0x5d CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
- .debug_line    0x00012e0c       0x61 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
- .debug_line    0x00012e6d      0x3c6 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
- .debug_line    0x00013233      0x3c1 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
- .debug_line    0x000135f4       0x94 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
- .debug_line    0x00013688      0x1ea CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
- .debug_line    0x00013872     0x1cbd CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_printf/printf.c.o
- .debug_line    0x0001552f       0xa5 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_crt0/crt0.S.o
- .debug_line    0x000155d4      0x8c7 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_clib_interface/newlib_interface.c.o
- .debug_line    0x00015e9b     0x15ef CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio/stdio.c.o
- .debug_line    0x0001748a      0xed1 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
- .debug_line    0x0001835b      0x56d CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_usb/reset_interface.c.o
- .debug_line    0x000188c8     0x12f3 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_usb/stdio_usb.c.o
- .debug_line    0x00019bbb      0x3fb CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.o
- .debug_line    0x00019fb6      0x64b CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_unique_id/unique_id.c.o
- .debug_line    0x0001a601      0xc2c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_flash/flash.c.o
- .debug_line    0x0001b22d     0x1f13 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.o
- .debug_line    0x0001d140      0xcec CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.o
- .debug_line    0x0001de2c     0x292b CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/device/usbd.c.o
- .debug_line    0x00020757      0x694 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/device/usbd_control.c.o
- .debug_line    0x00020deb     0x1102 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/cdc/cdc_device.c.o
- .debug_line    0x00021eed      0xb13 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/vendor/vendor_device.c.o
- .debug_line    0x00022a00     0x1294 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/tusb.c.o
- .debug_line    0x00023c94     0x1a62 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/common/tusb_fifo.c.o
- .debug_line    0x000256f6       0x4a /usr/lib/gcc/arm-none-eabi/14.2.0/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
- .debug_line    0x00025740       0xe7 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-atexit.o)
- .debug_line    0x00025827       0xe7 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-fini.o)
- .debug_line    0x0002590e      0x17d /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-lock.o)
- .debug_line    0x00025a8b      0x1e1 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-strlen-stub.o)
- .debug_line    0x00025c6c      0x19a /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-__atexit.o)
- .debug_line    0x00025e06      0x2e5 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-__call_atexit.o)
+.debug_line     0x00000000    0x25d1f
+ .debug_line    0x00000000      0x46c CMakeFiles/PicoLED.dir/src/main.c.o
+ .debug_line    0x0000046c     0x1cf4 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_gpio/gpio.c.o
+ .debug_line    0x00002160      0x262 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2040/pico_platform/platform.c.o
+ .debug_line    0x000023c2      0x24e CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_platform_panic/panic.c.o
+ .debug_line    0x00002610      0x944 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/hardware_claim/claim.c.o
+ .debug_line    0x00002f54      0x500 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_sync/sync.c.o
+ .debug_line    0x00003454      0x3ce CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
+ .debug_line    0x00003822     0x17ed CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_irq/irq.c.o
+ .debug_line    0x0000500f      0x2f9 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/lock_core.c.o
+ .debug_line    0x00005308     0x1bbd CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/mutex.c.o
+ .debug_line    0x00006ec5      0x441 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/critical_section.c.o
+ .debug_line    0x00007306     0x35f6 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_time/time.c.o
+ .debug_line    0x0000a8fc     0x1da2 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_timer/timer.c.o
+ .debug_line    0x0000c69e     0x1021 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_uart/uart.c.o
+ .debug_line    0x0000d6bf     0x2184 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_clocks/clocks.c.o
+ .debug_line    0x0000f843      0x53c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_pll/pll.c.o
+ .debug_line    0x0000fd7f      0x7dc CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_watchdog/watchdog.c.o
+ .debug_line    0x0001055b      0x358 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_ticks/ticks.c.o
+ .debug_line    0x000108b3      0x438 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bootrom/bootrom.c.o
+ .debug_line    0x00010ceb      0x361 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_xosc/xosc.c.o
+ .debug_line    0x0001104c      0x319 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime/runtime.c.o
+ .debug_line    0x00011365      0x57e CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init.c.o
+ .debug_line    0x000118e3      0x5e1 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
+ .debug_line    0x00011ec4      0x107 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
+ .debug_line    0x00011fcb      0x2a9 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_divider/divider_hardware.S.o
+ .debug_line    0x00012274      0x44d CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
+ .debug_line    0x000126c1      0x4f6 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
+ .debug_line    0x00012bb7       0x5d CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
+ .debug_line    0x00012c14       0x61 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
+ .debug_line    0x00012c75      0x3c6 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
+ .debug_line    0x0001303b      0x3b2 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
+ .debug_line    0x000133ed       0x94 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
+ .debug_line    0x00013481      0x1e1 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
+ .debug_line    0x00013662     0x1cb4 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_printf/printf.c.o
+ .debug_line    0x00015316       0xa5 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_crt0/crt0.S.o
+ .debug_line    0x000153bb      0x8ac CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_clib_interface/newlib_interface.c.o
+ .debug_line    0x00015c67     0x15c5 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio/stdio.c.o
+ .debug_line    0x0001722c      0xeaa CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
+ .debug_line    0x000180d6      0x558 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_usb/reset_interface.c.o
+ .debug_line    0x0001862e     0x12ba CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_usb/stdio_usb.c.o
+ .debug_line    0x000198e8      0x3e9 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.o
+ .debug_line    0x00019cd1      0x63f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_unique_id/unique_id.c.o
+ .debug_line    0x0001a310      0xc14 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_flash/flash.c.o
+ .debug_line    0x0001af24     0x1eef CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.o
+ .debug_line    0x0001ce13      0xcd1 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.o
+ .debug_line    0x0001dae4     0x290a CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/device/usbd.c.o
+ .debug_line    0x000203ee      0x68b CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/device/usbd_control.c.o
+ .debug_line    0x00020a79     0x10ea CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/cdc/cdc_device.c.o
+ .debug_line    0x00021b63      0xafb CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/vendor/vendor_device.c.o
+ .debug_line    0x0002265e     0x1279 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/tusb.c.o
+ .debug_line    0x000238d7     0x1a53 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/common/tusb_fifo.c.o
+ .debug_line    0x0002532a       0x4a /usr/lib/gcc/arm-none-eabi/14.2.0/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x00025374       0xe7 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-atexit.o)
+ .debug_line    0x0002545b       0xe7 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-fini.o)
+ .debug_line    0x00025542      0x17d /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-lock.o)
+ .debug_line    0x000256bf      0x1e1 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-strlen-stub.o)
+ .debug_line    0x000258a0      0x19a /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-__atexit.o)
+ .debug_line    0x00025a3a      0x2e5 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-__call_atexit.o)
 
-.debug_str      0x00000000     0x9758
- .debug_str     0x00000000     0x9758 CMakeFiles/PicoLED.dir/src/main.c.o
-                                0x3f6 (size before relaxing)
- .debug_str     0x00009758      0xc72 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_gpio/gpio.c.o
- .debug_str     0x00009758      0x1f6 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2040/pico_platform/platform.c.o
- .debug_str     0x00009758      0x1fd CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_platform_panic/panic.c.o
- .debug_str     0x00009758      0x380 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/hardware_claim/claim.c.o
- .debug_str     0x00009758      0x329 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_sync/sync.c.o
- .debug_str     0x00009758      0x23c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
- .debug_str     0x00009758      0xa70 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_irq/irq.c.o
- .debug_str     0x00009758      0x208 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/lock_core.c.o
- .debug_str     0x00009758      0x79b CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/mutex.c.o
- .debug_str     0x00009758      0x2c8 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/critical_section.c.o
- .debug_str     0x00009758     0x1191 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_time/time.c.o
- .debug_str     0x00009758      0x9e3 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_timer/timer.c.o
- .debug_str     0x00009758      0xbf2 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_uart/uart.c.o
- .debug_str     0x00009758      0x998 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_clocks/clocks.c.o
- .debug_str     0x00009758      0x45b CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_pll/pll.c.o
- .debug_str     0x00009758      0x392 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_watchdog/watchdog.c.o
- .debug_str     0x00009758      0x28a CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_ticks/ticks.c.o
- .debug_str     0x00009758      0x34f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bootrom/bootrom.c.o
- .debug_str     0x00009758      0x23f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_xosc/xosc.c.o
- .debug_str     0x00009758      0x28f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime/runtime.c.o
- .debug_str     0x00009758      0x783 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init.c.o
- .debug_str     0x00009758      0x497 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
- .debug_str     0x00009758       0x99 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
- .debug_str     0x00009758       0x9c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_divider/divider_hardware.S.o
- .debug_str     0x00009758       0x9e CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
- .debug_str     0x00009758      0x2d7 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
- .debug_str     0x00009758       0xa4 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
- .debug_str     0x00009758       0xa2 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
- .debug_str     0x00009758       0x9c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
- .debug_str     0x00009758      0x29c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
- .debug_str     0x00009758       0x99 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
- .debug_str     0x00009758      0x3fe CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
- .debug_str     0x00009758      0x4e1 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_printf/printf.c.o
- .debug_str     0x00009758       0x8d CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_crt0/crt0.S.o
- .debug_str     0x00009758      0x71d CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_clib_interface/newlib_interface.c.o
- .debug_str     0x00009758      0xd98 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio/stdio.c.o
- .debug_str     0x00009758      0xed1 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
- .debug_str     0x00009758      0xdf7 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_usb/reset_interface.c.o
- .debug_str     0x00009758      0xedb CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_usb/stdio_usb.c.o
- .debug_str     0x00009758      0xf99 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.o
- .debug_str     0x00009758      0x26e CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_unique_id/unique_id.c.o
- .debug_str     0x00009758      0x6c8 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_flash/flash.c.o
- .debug_str     0x00009758     0x11e9 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.o
- .debug_str     0x00009758      0x9ed CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.o
- .debug_str     0x00009758     0x1b2d CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/device/usbd.c.o
- .debug_str     0x00009758      0x691 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/device/usbd_control.c.o
- .debug_str     0x00009758     0x1720 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/cdc/cdc_device.c.o
- .debug_str     0x00009758      0xdf6 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/vendor/vendor_device.c.o
- .debug_str     0x00009758      0xdd2 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/tusb.c.o
- .debug_str     0x00009758      0x626 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/common/tusb_fifo.c.o
- .debug_str     0x00009758       0xba /usr/lib/gcc/arm-none-eabi/14.2.0/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
- .debug_str     0x00009758      0x1f7 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-atexit.o)
- .debug_str     0x00009758      0x1f1 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-fini.o)
- .debug_str     0x00009758      0x351 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-lock.o)
- .debug_str     0x00009758      0x1d7 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-strlen-stub.o)
- .debug_str     0x00009758      0x2ce /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-__atexit.o)
- .debug_str     0x00009758      0x2f7 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-__call_atexit.o)
+.debug_str      0x00000000     0x96bc
+ .debug_str     0x00000000     0x96bc CMakeFiles/PicoLED.dir/src/main.c.o
+                                0x3f0 (size before relaxing)
+ .debug_str     0x000096bc      0xc6c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_gpio/gpio.c.o
+ .debug_str     0x000096bc      0x1f0 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2040/pico_platform/platform.c.o
+ .debug_str     0x000096bc      0x1f7 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_platform_panic/panic.c.o
+ .debug_str     0x000096bc      0x37a CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/hardware_claim/claim.c.o
+ .debug_str     0x000096bc      0x323 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_sync/sync.c.o
+ .debug_str     0x000096bc      0x236 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.o
+ .debug_str     0x000096bc      0xa6a CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_irq/irq.c.o
+ .debug_str     0x000096bc      0x202 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/lock_core.c.o
+ .debug_str     0x000096bc      0x795 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/mutex.c.o
+ .debug_str     0x000096bc      0x2c2 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_sync/critical_section.c.o
+ .debug_str     0x000096bc     0x118b CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/common/pico_time/time.c.o
+ .debug_str     0x000096bc      0x9dd CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_timer/timer.c.o
+ .debug_str     0x000096bc      0xbec CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_uart/uart.c.o
+ .debug_str     0x000096bc      0x992 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_clocks/clocks.c.o
+ .debug_str     0x000096bc      0x455 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_pll/pll.c.o
+ .debug_str     0x000096bc      0x38c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_watchdog/watchdog.c.o
+ .debug_str     0x000096bc      0x284 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_ticks/ticks.c.o
+ .debug_str     0x000096bc      0x349 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bootrom/bootrom.c.o
+ .debug_str     0x000096bc      0x239 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_xosc/xosc.c.o
+ .debug_str     0x000096bc      0x289 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime/runtime.c.o
+ .debug_str     0x000096bc      0x77d CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init.c.o
+ .debug_str     0x000096bc      0x491 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.o
+ .debug_str     0x000096bc       0x93 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
+ .debug_str     0x000096bc       0x96 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_divider/divider_hardware.S.o
+ .debug_str     0x000096bc       0x98 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
+ .debug_str     0x000096bc      0x2d1 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_init_rom_rp2040.c.o
+ .debug_str     0x000096bc       0x9e CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
+ .debug_str     0x000096bc       0x9c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
+ .debug_str     0x000096bc       0x96 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
+ .debug_str     0x000096bc      0x296 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_init_rom_rp2040.c.o
+ .debug_str     0x000096bc       0x93 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
+ .debug_str     0x000096bc      0x3f8 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.o
+ .debug_str     0x000096bc      0x4db CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_printf/printf.c.o
+ .debug_str     0x000096bc       0x87 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_crt0/crt0.S.o
+ .debug_str     0x000096bc      0x717 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_clib_interface/newlib_interface.c.o
+ .debug_str     0x000096bc      0xd92 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio/stdio.c.o
+ .debug_str     0x000096bc      0xecb CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_uart/stdio_uart.c.o
+ .debug_str     0x000096bc      0xdf1 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_usb/reset_interface.c.o
+ .debug_str     0x000096bc      0xed5 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_usb/stdio_usb.c.o
+ .debug_str     0x000096bc      0xf93 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.o
+ .debug_str     0x000096bc      0x268 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_unique_id/unique_id.c.o
+ .debug_str     0x000096bc      0x6c2 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/hardware_flash/flash.c.o
+ .debug_str     0x000096bc     0x11e3 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.o
+ .debug_str     0x000096bc      0x9e7 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.o
+ .debug_str     0x000096bc     0x1b27 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/device/usbd.c.o
+ .debug_str     0x000096bc      0x68b CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/device/usbd_control.c.o
+ .debug_str     0x000096bc     0x171a CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/cdc/cdc_device.c.o
+ .debug_str     0x000096bc      0xdf0 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/class/vendor/vendor_device.c.o
+ .debug_str     0x000096bc      0xdcc CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/tusb.c.o
+ .debug_str     0x000096bc      0x620 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/lib/tinyusb/src/common/tusb_fifo.c.o
+ .debug_str     0x000096bc       0xba /usr/lib/gcc/arm-none-eabi/14.2.0/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .debug_str     0x000096bc      0x1f7 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-atexit.o)
+ .debug_str     0x000096bc      0x1f1 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-fini.o)
+ .debug_str     0x000096bc      0x351 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-lock.o)
+ .debug_str     0x000096bc      0x1d7 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-strlen-stub.o)
+ .debug_str     0x000096bc      0x2ce /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-__atexit.o)
+ .debug_str     0x000096bc      0x2f7 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-__call_atexit.o)
 
 .debug_frame    0x00000000     0x3264
  .debug_frame   0x00000000       0x2c CMakeFiles/PicoLED.dir/src/main.c.o
@@ -5149,23 +5149,23 @@ LOAD linker stubs
  .debug_frame   0x00003210       0x54 /usr/lib/gcc/arm-none-eabi/14.2.0/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(libc_a-__call_atexit.o)
 
 .debug_line_str
-                0x00000000      0x3a7
+                0x00000000      0x38f
  .debug_line_str
-                0x00000000      0x3a7 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
-                                 0x8d (size before relaxing)
+                0x00000000      0x38f CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.o
+                                 0x87 (size before relaxing)
  .debug_line_str
-                0x000003a7       0x90 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_divider/divider_hardware.S.o
+                0x0000038f       0x8a CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_divider/divider_hardware.S.o
  .debug_line_str
-                0x000003a7       0x92 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
+                0x0000038f       0x8c CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_aeabi_rp2040.S.o
  .debug_line_str
-                0x000003a7       0x98 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
+                0x0000038f       0x92 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_double/double_v1_rom_shim_rp2040.S.o
  .debug_line_str
-                0x000003a7       0x96 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
+                0x0000038f       0x90 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.o
  .debug_line_str
-                0x000003a7       0x90 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
+                0x0000038f       0x8a CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_float/float_aeabi_rp2040.S.o
  .debug_line_str
-                0x000003a7       0x8d CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
+                0x0000038f       0x87 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.o
  .debug_line_str
-                0x000003a7       0x81 CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_crt0/crt0.S.o
+                0x0000038f       0x7b CMakeFiles/PicoLED.dir/_deps/pico_sdk-src/src/rp2_common/pico_crt0/crt0.S.o
  .debug_line_str
-                0x000003a7       0x92 /usr/lib/gcc/arm-none-eabi/14.2.0/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+                0x0000038f       0x92 /usr/lib/gcc/arm-none-eabi/14.2.0/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)

@@ -4,6 +4,6 @@
 
 method=source_dir
 command=
-source_dir=/home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/tools/pioasm
+source_dir=/home/user/Documents/PicoTest/build/_deps/pico_sdk-src/tools/pioasm
 work_dir=
 

@@ -1,8 +1,8 @@
-# Install script for directory: /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/host/pico_platform
+# Install script for directory: /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/host/pico_platform
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/user/Documents/PicoLEDTest/build/_deps")
+  set(CMAKE_INSTALL_PREFIX "/home/user/Documents/PicoTest/build/_deps")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,6 +45,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/home/user/Documents/PicoLEDTest/build/_deps/picotool-build/pico_platform/install_local_manifest.txt"
+  file(WRITE "/home/user/Documents/PicoTest/build/_deps/picotool-build/pico_platform/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

@@ -1,4 +1,4 @@
-# Install script for directory: /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/rp2_common/pico_rand
+# Install script for directory: /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/rp2_common/pico_rand
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,6 +40,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/home/user/Documents/PicoLEDTest/build/pico-sdk/src/rp2_common/pico_rand/install_local_manifest.txt"
+  file(WRITE "/home/user/Documents/PicoTest/build/pico-sdk/src/rp2_common/pico_rand/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

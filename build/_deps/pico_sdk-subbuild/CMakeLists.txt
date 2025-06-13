@@ -1,7 +1,7 @@
 # Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
 # file LICENSE.rst or https://cmake.org/licensing for details.
 
-cmake_minimum_required(VERSION 4.0.2-dirty)
+cmake_minimum_required(VERSION 4.0.3-dirty)
 
 # Reject any attempt to use a toolchain file. We must not use one because
 # we could be downloading it here. If the CMAKE_TOOLCHAIN_FILE environment
@@ -28,8 +28,8 @@ set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
 include(ExternalProject)
 ExternalProject_Add(pico_sdk-populate
                      "GIT_REPOSITORY" "https://github.com/raspberrypi/pico-sdk" "GIT_TAG" "master" "GIT_SUBMODULES_RECURSE" "FALSE"
-                    SOURCE_DIR          "/home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src"
-                    BINARY_DIR          "/home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-build"
+                    SOURCE_DIR          "/home/user/Documents/PicoTest/build/_deps/pico_sdk-src"
+                    BINARY_DIR          "/home/user/Documents/PicoTest/build/_deps/pico_sdk-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

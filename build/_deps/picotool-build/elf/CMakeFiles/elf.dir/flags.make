@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/user/Documents/PicoLEDTest/build/_deps/picotool-src/elf -I/home/user/Documents/PicoLEDTest/build/_deps/picotool-src/errors
+CXX_INCLUDES = -I/home/user/Documents/PicoTest/build/_deps/picotool-src/elf -I/home/user/Documents/PicoTest/build/_deps/picotool-src/errors
 
 CXX_FLAGS = -O3 -DNDEBUG -std=gnu++14
 

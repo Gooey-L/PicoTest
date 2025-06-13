@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = -DMBEDTLS_CONFIG_FILE=\"picotool_mbedtls_config.h\"
 
-C_INCLUDES = -I/home/user/Documents/PicoLEDTest/build/_deps/picotool-src/lib/include -isystem /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/lib/mbedtls/include
+C_INCLUDES = -I/home/user/Documents/PicoTest/build/_deps/picotool-src/lib/include -isystem /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/lib/mbedtls/include
 
 C_FLAGS = -O3 -DNDEBUG
 

@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/user/Documents/PicoLEDTest/build/_deps/picotool-subbuild/cmake_install.cmake"
+		"/home/user/Documents/PicoTest/build/_deps/picotool-subbuild/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user/Documents/PicoLEDTest
+CMAKE_SOURCE_DIR = /home/user/Documents/PicoTest
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user/Documents/PicoLEDTest/build
+CMAKE_BINARY_DIR = /home/user/Documents/PicoTest/build
 
 # Utility rule file for picotoolBuild.
 
@@ -77,10 +77,10 @@ CMakeFiles/picotoolBuild-complete: picotool/src/picotoolBuild-stamp/picotoolBuil
 CMakeFiles/picotoolBuild-complete: picotool/src/picotoolBuild-stamp/picotoolBuild-build
 CMakeFiles/picotoolBuild-complete: picotool/src/picotoolBuild-stamp/picotoolBuild-install
 CMakeFiles/picotoolBuild-complete: picotool/src/picotoolBuild-stamp/picotoolBuild-test
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'picotoolBuild'"
-	/usr/bin/cmake -E make_directory /home/user/Documents/PicoLEDTest/build/CMakeFiles
-	/usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/CMakeFiles/picotoolBuild-complete
-	/usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-done
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'picotoolBuild'"
+	/usr/bin/cmake -E make_directory /home/user/Documents/PicoTest/build/CMakeFiles
+	/usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/CMakeFiles/picotoolBuild-complete
+	/usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-done
 
 picotool/src/picotoolBuild-stamp/picotoolBuild-install:
 .PHONY : picotool/src/picotoolBuild-stamp/picotoolBuild-install
@@ -92,52 +92,52 @@ picotool/src/picotoolBuild-stamp/picotoolBuild-install:
 .PHONY : picotool/src/picotoolBuild-stamp/picotoolBuild-install
 
 picotool/src/picotoolBuild-stamp/picotoolBuild-build: picotool/src/picotoolBuild-stamp/picotoolBuild-configure
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Performing build step for 'picotoolBuild'"
-	cd /home/user/Documents/PicoLEDTest/build/_deps/picotool-build && $(MAKE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Performing build step for 'picotoolBuild'"
+	cd /home/user/Documents/PicoTest/build/_deps/picotool-build && $(MAKE)
 
 picotool/src/picotoolBuild-stamp/picotoolBuild-configure: picotool/tmp/picotoolBuild-cfgcmd.txt
 picotool/src/picotoolBuild-stamp/picotoolBuild-configure: picotool/src/picotoolBuild-stamp/picotoolBuild-patch
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Performing configure step for 'picotoolBuild'"
-	cd /home/user/Documents/PicoLEDTest/build/_deps/picotool-build && /usr/bin/cmake --no-warn-unused-cli -DCMAKE_MAKE_PROGRAM:FILEPATH=/usr/bin/make -DPICO_SDK_PATH:FILEPATH=/home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src -DPICOTOOL_NO_LIBUSB=1 -DPICOTOOL_FLAT_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/user/Documents/PicoLEDTest/build/_deps -DCMAKE_RULE_MESSAGES=OFF -DCMAKE_INSTALL_MESSAGE=NEVER "-GUnix Makefiles" -S /home/user/Documents/PicoLEDTest/build/_deps/picotool-src -B /home/user/Documents/PicoLEDTest/build/_deps/picotool-build
-	cd /home/user/Documents/PicoLEDTest/build/_deps/picotool-build && /usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Performing configure step for 'picotoolBuild'"
+	cd /home/user/Documents/PicoTest/build/_deps/picotool-build && /usr/bin/cmake --no-warn-unused-cli -DCMAKE_MAKE_PROGRAM:FILEPATH=/usr/bin/make -DPICO_SDK_PATH:FILEPATH=/home/user/Documents/PicoTest/build/_deps/pico_sdk-src -DPICOTOOL_NO_LIBUSB=1 -DPICOTOOL_FLAT_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/user/Documents/PicoTest/build/_deps -DCMAKE_RULE_MESSAGES=OFF -DCMAKE_INSTALL_MESSAGE=NEVER "-GUnix Makefiles" -S /home/user/Documents/PicoTest/build/_deps/picotool-src -B /home/user/Documents/PicoTest/build/_deps/picotool-build
+	cd /home/user/Documents/PicoTest/build/_deps/picotool-build && /usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure
 
 picotool/src/picotoolBuild-stamp/picotoolBuild-download: picotool/src/picotoolBuild-stamp/picotoolBuild-source_dirinfo.txt
 picotool/src/picotoolBuild-stamp/picotoolBuild-download: picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "No download step for 'picotoolBuild'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "No download step for 'picotoolBuild'"
 	/usr/bin/cmake -E echo_append
-	/usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download
+	/usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download
 
 picotool/src/picotoolBuild-stamp/picotoolBuild-install: picotool/src/picotoolBuild-stamp/picotoolBuild-build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Performing install step for 'picotoolBuild'"
-	cd /home/user/Documents/PicoLEDTest/build/_deps/picotool-build && $(MAKE) install
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Performing install step for 'picotoolBuild'"
+	cd /home/user/Documents/PicoTest/build/_deps/picotool-build && $(MAKE) install
 
 picotool/src/picotoolBuild-stamp/picotoolBuild-build:
 .PHONY : picotool/src/picotoolBuild-stamp/picotoolBuild-build
 
 picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir:
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'picotoolBuild'"
-	/usr/bin/cmake -Dcfgdir= -P /home/user/Documents/PicoLEDTest/build/picotool/tmp/picotoolBuild-mkdirs.cmake
-	/usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'picotoolBuild'"
+	/usr/bin/cmake -Dcfgdir= -P /home/user/Documents/PicoTest/build/picotool/tmp/picotoolBuild-mkdirs.cmake
+	/usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir
 
 picotool/src/picotoolBuild-stamp/picotoolBuild-patch: picotool/src/picotoolBuild-stamp/picotoolBuild-patch-info.txt
 picotool/src/picotoolBuild-stamp/picotoolBuild-patch: picotool/src/picotoolBuild-stamp/picotoolBuild-update
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'picotoolBuild'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'picotoolBuild'"
 	/usr/bin/cmake -E echo_append
-	/usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch
+	/usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch
 
 picotool/src/picotoolBuild-stamp/picotoolBuild-test: picotool/src/picotoolBuild-stamp/picotoolBuild-install
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Performing test step for 'picotoolBuild'"
-	cd /home/user/Documents/PicoLEDTest/build/_deps/picotool-build && /home/user/Documents/PicoLEDTest/build/_deps/picotool/picotool version 2.1.1
-	cd /home/user/Documents/PicoLEDTest/build/_deps/picotool-build && /usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Performing test step for 'picotoolBuild'"
+	cd /home/user/Documents/PicoTest/build/_deps/picotool-build && /home/user/Documents/PicoTest/build/_deps/picotool/picotool version 2.1.1
+	cd /home/user/Documents/PicoTest/build/_deps/picotool-build && /usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test
 
 picotool/src/picotoolBuild-stamp/picotoolBuild-install:
 .PHONY : picotool/src/picotoolBuild-stamp/picotoolBuild-install
 
 picotool/src/picotoolBuild-stamp/picotoolBuild-update: picotool/src/picotoolBuild-stamp/picotoolBuild-update-info.txt
 picotool/src/picotoolBuild-stamp/picotoolBuild-update: picotool/src/picotoolBuild-stamp/picotoolBuild-download
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "No update step for 'picotoolBuild'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "No update step for 'picotoolBuild'"
 	/usr/bin/cmake -E echo_append
-	/usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update
+	/usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update
 
 CMakeFiles/picotoolBuild.dir/codegen:
 .PHONY : CMakeFiles/picotoolBuild.dir/codegen
@@ -164,6 +164,6 @@ CMakeFiles/picotoolBuild.dir/clean:
 .PHONY : CMakeFiles/picotoolBuild.dir/clean
 
 CMakeFiles/picotoolBuild.dir/depend:
-	cd /home/user/Documents/PicoLEDTest/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/Documents/PicoLEDTest /home/user/Documents/PicoLEDTest /home/user/Documents/PicoLEDTest/build /home/user/Documents/PicoLEDTest/build /home/user/Documents/PicoLEDTest/build/CMakeFiles/picotoolBuild.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/user/Documents/PicoTest/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/Documents/PicoTest /home/user/Documents/PicoTest /home/user/Documents/PicoTest/build /home/user/Documents/PicoTest/build /home/user/Documents/PicoTest/build/CMakeFiles/picotoolBuild.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/picotoolBuild.dir/depend
 

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild
+CMAKE_SOURCE_DIR = /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild
+CMAKE_BINARY_DIR = /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild
 
 # Utility rule file for pico_sdk-populate.
 
@@ -77,60 +77,60 @@ CMakeFiles/pico_sdk-populate-complete: pico_sdk-populate-prefix/src/pico_sdk-pop
 CMakeFiles/pico_sdk-populate-complete: pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-build
 CMakeFiles/pico_sdk-populate-complete: pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-install
 CMakeFiles/pico_sdk-populate-complete: pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-test
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'pico_sdk-populate'"
-	/usr/bin/cmake -E make_directory /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/CMakeFiles
-	/usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/CMakeFiles/pico_sdk-populate-complete
-	/usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-done
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Completed 'pico_sdk-populate'"
+	/usr/bin/cmake -E make_directory /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/CMakeFiles
+	/usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/CMakeFiles/pico_sdk-populate-complete
+	/usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-done
 
 pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-update:
 .PHONY : pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-update
 
 pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-build: pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-configure
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "No build step for 'pico_sdk-populate'"
-	cd /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E echo_append
-	cd /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "No build step for 'pico_sdk-populate'"
+	cd /home/user/Documents/PicoTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E echo_append
+	cd /home/user/Documents/PicoTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-build
 
 pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-configure: pico_sdk-populate-prefix/tmp/pico_sdk-populate-cfgcmd.txt
 pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-configure: pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-patch
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "No configure step for 'pico_sdk-populate'"
-	cd /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E echo_append
-	cd /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-configure
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "No configure step for 'pico_sdk-populate'"
+	cd /home/user/Documents/PicoTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E echo_append
+	cd /home/user/Documents/PicoTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-configure
 
 pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-download: pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-gitinfo.txt
 pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-download: pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-mkdir
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Performing download step (git clone) for 'pico_sdk-populate'"
-	cd /home/user/Documents/PicoLEDTest/build/_deps && /usr/bin/cmake -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/tmp/pico_sdk-populate-gitclone.cmake
-	cd /home/user/Documents/PicoLEDTest/build/_deps && /usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-download
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Performing download step (git clone) for 'pico_sdk-populate'"
+	cd /home/user/Documents/PicoTest/build/_deps && /usr/bin/cmake -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/tmp/pico_sdk-populate-gitclone.cmake
+	cd /home/user/Documents/PicoTest/build/_deps && /usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-download
 
 pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-install: pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "No install step for 'pico_sdk-populate'"
-	cd /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E echo_append
-	cd /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-install
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "No install step for 'pico_sdk-populate'"
+	cd /home/user/Documents/PicoTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E echo_append
+	cd /home/user/Documents/PicoTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-install
 
 pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-mkdir:
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'pico_sdk-populate'"
-	/usr/bin/cmake -Dcfgdir= -P /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/tmp/pico_sdk-populate-mkdirs.cmake
-	/usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-mkdir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Creating directories for 'pico_sdk-populate'"
+	/usr/bin/cmake -Dcfgdir= -P /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/tmp/pico_sdk-populate-mkdirs.cmake
+	/usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-mkdir
 
 pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-patch: pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-patch-info.txt
 pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-patch: pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-update
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'pico_sdk-populate'"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "No patch step for 'pico_sdk-populate'"
 	/usr/bin/cmake -E echo_append
-	/usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-patch
+	/usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-patch
 
 pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-update:
 .PHONY : pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-update
 
 pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-test: pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-install
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "No test step for 'pico_sdk-populate'"
-	cd /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E echo_append
-	cd /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E touch /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-test
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "No test step for 'pico_sdk-populate'"
+	cd /home/user/Documents/PicoTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E echo_append
+	cd /home/user/Documents/PicoTest/build/_deps/pico_sdk-build && /usr/bin/cmake -E touch /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-test
 
 pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-update: pico_sdk-populate-prefix/tmp/pico_sdk-populate-gitupdate.cmake
 pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-update: pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-update-info.txt
 pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-update: pico_sdk-populate-prefix/src/pico_sdk-populate-stamp/pico_sdk-populate-download
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Performing update step for 'pico_sdk-populate'"
-	cd /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src && /usr/bin/cmake -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/tmp/pico_sdk-populate-gitupdate.cmake
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Performing update step for 'pico_sdk-populate'"
+	cd /home/user/Documents/PicoTest/build/_deps/pico_sdk-src && /usr/bin/cmake -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/pico_sdk-populate-prefix/tmp/pico_sdk-populate-gitupdate.cmake
 
 CMakeFiles/pico_sdk-populate.dir/codegen:
 .PHONY : CMakeFiles/pico_sdk-populate.dir/codegen
@@ -157,6 +157,6 @@ CMakeFiles/pico_sdk-populate.dir/clean:
 .PHONY : CMakeFiles/pico_sdk-populate.dir/clean
 
 CMakeFiles/pico_sdk-populate.dir/depend:
-	cd /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/CMakeFiles/pico_sdk-populate.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild /home/user/Documents/PicoTest/build/_deps/pico_sdk-subbuild/CMakeFiles/pico_sdk-populate.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/pico_sdk-populate.dir/depend
 

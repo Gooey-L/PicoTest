@@ -1,7 +1,7 @@
 CMakeFiles/picotool.dir/lib/whereami/whereami.c.o: \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/lib/whereami/whereami.c \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/lib/whereami/whereami.c \
  /usr/include/stdc-predef.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/lib/whereami/whereami.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/lib/whereami/whereami.h \
  /usr/include/stdlib.h /usr/include/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/bits/wordsize.h /usr/include/bits/timesize.h \

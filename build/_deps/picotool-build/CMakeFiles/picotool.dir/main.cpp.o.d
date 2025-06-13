@@ -1,7 +1,7 @@
 CMakeFiles/picotool.dir/main.cpp.o: \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/main.cpp \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/main.cpp \
  /usr/include/stdc-predef.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/cli.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/cli.h \
  /usr/include/c++/15.1.1/algorithm \
  /usr/include/c++/15.1.1/bits/stl_algobase.h \
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -174,7 +174,7 @@ CMakeFiles/picotool.dir/main.cpp.o: \
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/stdint-uintn.h \
  /usr/include/bits/stdint-least.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/clipp/clipp.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/clipp/clipp.h \
  /usr/include/c++/15.1.1/cstring /usr/include/string.h \
  /usr/include/strings.h /usr/include/c++/15.1.1/stack \
  /usr/include/c++/15.1.1/deque /usr/include/c++/15.1.1/bits/stl_deque.h \
@@ -237,58 +237,58 @@ CMakeFiles/picotool.dir/main.cpp.o: \
  /usr/include/c++/15.1.1/array /usr/include/c++/15.1.1/compare \
  /usr/include/c++/15.1.1/cstdarg /usr/include/c++/15.1.1/iomanip \
  /usr/include/c++/15.1.1/bits/quoted_string.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/common/boot_uf2_headers/include/boot/uf2.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/common/boot_picobin_headers/include/boot/picobin.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/host/pico_platform/include/pico/platform.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/rp2350/hardware_regs/include/hardware/platform_defs.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/common/boot_uf2_headers/include/boot/uf2.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/common/boot_picobin_headers/include/boot/picobin.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/host/pico_platform/include/pico/platform.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/rp2350/hardware_regs/include/hardware/platform_defs.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdbool.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/get_enc_bootloader.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/get_enc_bootloader.h \
  /usr/include/c++/15.1.1/fstream \
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/basic_file.h \
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++io.h \
  /usr/include/c++/15.1.1/bits/fstream.tcc \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/picoboot_connection/picoboot_connection.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/common/boot_picoboot_headers/include/boot/picoboot.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/elf/addresses.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/bintool/bintool.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/bintool/mbedtls_wrapper.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/picoboot_connection/picoboot_connection.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/common/boot_picoboot_headers/include/boot/picoboot.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/common/boot_picoboot_headers/include/boot/picoboot_constants.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/elf/addresses.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/bintool/bintool.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/bintool/mbedtls_wrapper.h \
  /usr/include/c++/15.1.1/stdlib.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/sha256.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/sha256.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/lib/include/picotool_mbedtls_config.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/limits.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/syslimits.h \
  /usr/include/limits.h /usr/include/bits/posix1_lim.h \
  /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
  /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
  /usr/include/bits/uio_lim.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/ecdsa.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/ecp.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/bignum.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/md.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/platform_util.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/platform_time.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/ctr_drbg.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/aes.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/entropy.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/sha512.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/pk.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/version.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/elf/elf_file.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/elf/elf.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/elf/addresses.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/bintool/metadata.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/elf2uf2/elf2uf2.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/common/pico_binary_info/include/pico/binary_info.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/common/pico_binary_info/include/pico/binary_info/defs.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/common/pico_binary_info/include/pico/binary_info/structure.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/common/pico_binary_info/include/pico/binary_info/code.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb/reset_interface.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/common/pico_usb_reset_interface_headers/include/pico/usb_reset_interface.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/elf/elf.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/otp.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/lib/nlohmann_json/single_include/nlohmann/json.hpp \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/ecdsa.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/ecp.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/bignum.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/md.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/platform_util.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/platform_time.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/ctr_drbg.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/aes.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/entropy.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/sha512.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/pk.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/lib/mbedtls/include/mbedtls/version.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/elf/elf_file.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/elf/elf.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/elf/addresses.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/bintool/metadata.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/elf2uf2/elf2uf2.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/rp2_common/boot_bootrom_headers/include/boot/bootrom_constants.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/common/pico_binary_info/include/pico/binary_info.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/common/pico_binary_info/include/pico/binary_info/defs.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/common/pico_binary_info/include/pico/binary_info/structure.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/common/pico_binary_info/include/pico/binary_info/code.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb/reset_interface.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/common/pico_usb_reset_interface_headers/include/pico/usb_reset_interface.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/elf/elf.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/otp.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/lib/nlohmann_json/single_include/nlohmann/json.hpp \
  /usr/include/c++/15.1.1/cstddef /usr/include/c++/15.1.1/forward_list \
  /usr/include/c++/15.1.1/bits/forward_list.h \
  /usr/include/c++/15.1.1/bits/forward_list.tcc \
@@ -308,8 +308,8 @@ CMakeFiles/picotool.dir/main.cpp.o: \
  /usr/include/c++/15.1.1/bits/mask_array.h \
  /usr/include/c++/15.1.1/bits/indirect_array.h \
  /usr/include/c++/15.1.1/version \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/errors/errors.h \
- /home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-src/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/errors/errors.h \
+ /home/user/Documents/PicoTest/build/_deps/pico_sdk-src/src/rp2350/hardware_regs/include/hardware/regs/otp_data.h \
  /usr/include/sys/ioctl.h /usr/include/bits/ioctls.h \
  /usr/include/asm/ioctls.h /usr/include/asm-generic/ioctls.h \
  /usr/include/linux/ioctl.h /usr/include/asm/ioctl.h \

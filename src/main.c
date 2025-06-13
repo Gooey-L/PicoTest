@@ -11,7 +11,6 @@ int main() {
 
     gpio_init(BUTTON_PIN);
     gpio_set_dir(BUTTON_PIN, GPIO_IN);
-    // ⚠️ No gpio_pull_up() or gpio_pull_down(): using external pull-down
 
     while (1) {
         if (gpio_get(BUTTON_PIN)) {

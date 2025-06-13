@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user/Documents/PicoLEDTest
+CMAKE_SOURCE_DIR = /home/user/Documents/PicoTest
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user/Documents/PicoLEDTest/build
+CMAKE_BINARY_DIR = /home/user/Documents/PicoTest/build
 
 # Utility rule file for picotoolForceReconfigure.
 
@@ -67,7 +67,7 @@ include CMakeFiles/picotoolForceReconfigure.dir/compiler_depend.make
 include CMakeFiles/picotoolForceReconfigure.dir/progress.make
 
 CMakeFiles/picotoolForceReconfigure:
-	/usr/bin/cmake -E touch_nocreate /home/user/Documents/PicoLEDTest/CMakeLists.txt
+	/usr/bin/cmake -E touch_nocreate /home/user/Documents/PicoTest/CMakeLists.txt
 
 CMakeFiles/picotoolForceReconfigure.dir/codegen:
 .PHONY : CMakeFiles/picotoolForceReconfigure.dir/codegen
@@ -85,6 +85,6 @@ CMakeFiles/picotoolForceReconfigure.dir/clean:
 .PHONY : CMakeFiles/picotoolForceReconfigure.dir/clean
 
 CMakeFiles/picotoolForceReconfigure.dir/depend:
-	cd /home/user/Documents/PicoLEDTest/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/Documents/PicoLEDTest /home/user/Documents/PicoLEDTest /home/user/Documents/PicoLEDTest/build /home/user/Documents/PicoLEDTest/build /home/user/Documents/PicoLEDTest/build/CMakeFiles/picotoolForceReconfigure.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/user/Documents/PicoTest/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/Documents/PicoTest /home/user/Documents/PicoTest /home/user/Documents/PicoTest/build /home/user/Documents/PicoTest/build /home/user/Documents/PicoTest/build/CMakeFiles/picotoolForceReconfigure.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/picotoolForceReconfigure.dir/depend
 

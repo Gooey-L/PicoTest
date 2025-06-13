@@ -1,7 +1,7 @@
 CMakeFiles/picotool.dir/lib/whereami/whereami++.cpp.o: \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/lib/whereami/whereami++.cpp \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/lib/whereami/whereami++.cpp \
  /usr/include/stdc-predef.h \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/lib/whereami/whereami++.h \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/lib/whereami/whereami++.h \
  /usr/include/c++/15.1.1/string \
  /usr/include/c++/15.1.1/bits/requires_hosted.h \
  /usr/include/c++/15.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -139,7 +139,7 @@ CMakeFiles/picotool.dir/lib/whereami/whereami++.cpp.o: \
  /usr/include/c++/15.1.1/bits/locale_facets.tcc \
  /usr/include/c++/15.1.1/bits/basic_ios.tcc \
  /usr/include/c++/15.1.1/bits/ostream.tcc \
- /home/user/Documents/PicoLEDTest/build/_deps/picotool-src/lib/whereami/whereami.c \
+ /home/user/Documents/PicoTest/build/_deps/picotool-src/lib/whereami/whereami.c \
  /usr/include/c++/15.1.1/stdlib.h /usr/include/string.h \
  /usr/include/strings.h /usr/include/linux/limits.h \
  /usr/include/inttypes.h \
