@@ -1,25 +1,21 @@
-#include "pico/stdlib.h"
+#include <stdio.h>
 
-#define LED_PIN    15
-#define BUTTON_PIN 12
+#include "pico/stdlib.h"
+#include "pico/stdio_usb.h"
+
+#include "../include/lcd1602_ic2.h"
+
+#define LED_PIN 10
+#define BUTTON_PIN 8
 
 int main() {
     stdio_init_all();
 
-    gpio_init(LED_PIN);
-    gpio_set_dir(LED_PIN, GPIO_OUT);
+    LCD mylcd;
+    lcd_init(&mylcd, 0x27, 4, 5, i2c0);
 
-    gpio_init(BUTTON_PIN);
-    gpio_set_dir(BUTTON_PIN, GPIO_IN);
-
-    while (1) {
-        if (gpio_get(BUTTON_PIN)) {
-            gpio_put(LED_PIN, 1);  // Button pressed => LED ON
-        } else {
-            gpio_put(LED_PIN, 0);  // Button released => LED OFF
-        }
-        sleep_ms(10);  // Small debounce delay
-    }
+    char message[] = "Hello, world";
+    lcd_string(&mylcd, message);
 
     return 0;
 }
