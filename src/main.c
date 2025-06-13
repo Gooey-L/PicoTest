@@ -3,7 +3,7 @@
 #include "pico/stdlib.h"
 #include "pico/stdio_usb.h"
 
-#include "../include/lcd1602_ic2.h"
+#include "lcd1602_i2c.h"
 
 #define LED_PIN 10
 #define BUTTON_PIN 8

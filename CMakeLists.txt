@@ -10,8 +10,8 @@ pico_sdk_init()
 
 add_executable(PicoLED
   src/main.c
-  include/lcd1602_i2c.c
-  include/lcd1602_i2c.h
+  src/lcd1602_i2c.c
+  src/lcd1602_i2c.h
 )
 
 target_link_libraries(PicoLED
