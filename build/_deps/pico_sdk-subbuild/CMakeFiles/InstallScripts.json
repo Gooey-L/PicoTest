@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/user/Documents/PicoLEDTest/build/_deps/pico_sdk-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
